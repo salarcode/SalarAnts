@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalarAnts", "SalarAnts\SalarAnts.csproj", "{1D5048F4-AD97-498B-B154-A074F430FE57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		DebugSaveInput|Any CPU = DebugSaveInput|Any CPU
+		DebugSaveInput|x86 = DebugSaveInput|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		TestInput|Any CPU = TestInput|Any CPU
+		TestInput|x86 = TestInput|x86
+		TestInputVisual|Any CPU = TestInputVisual|Any CPU
+		TestInputVisual|x86 = TestInputVisual|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.Debug|x86.ActiveCfg = Debug|x86
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.Debug|x86.Build.0 = Debug|x86
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.DebugSaveInput|Any CPU.ActiveCfg = DebugSaveInput|Any CPU
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.DebugSaveInput|Any CPU.Build.0 = DebugSaveInput|Any CPU
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.DebugSaveInput|x86.ActiveCfg = DebugSaveInput|x86
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.DebugSaveInput|x86.Build.0 = DebugSaveInput|x86
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.Release|x86.ActiveCfg = Release|x86
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.Release|x86.Build.0 = Release|x86
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.TestInput|Any CPU.ActiveCfg = TestInput|Any CPU
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.TestInput|Any CPU.Build.0 = TestInput|Any CPU
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.TestInput|x86.ActiveCfg = TestInput|x86
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.TestInput|x86.Build.0 = TestInput|x86
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.TestInputVisual|Any CPU.ActiveCfg = TestInputVisual|Any CPU
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.TestInputVisual|Any CPU.Build.0 = TestInputVisual|Any CPU
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.TestInputVisual|x86.ActiveCfg = TestInputVisual|x86
+		{1D5048F4-AD97-498B-B154-A074F430FE57}.TestInputVisual|x86.Build.0 = TestInputVisual|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
