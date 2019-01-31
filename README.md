@@ -1,10 +1,9 @@
-
 ## Project Description
 My ant bot for Google AI Challenge 2011 goes open source here. (The code will be released soon after challenge ended)
 
 I never studied computer science nor algorithms, but the challenge made me to. I tried my best to write better AI in the limited time I had. Wow this challenge is addictive.
 
-V3 of my bot ranked 569 in finals and V1 of it ranked 943.
+v3 of my bot [ranked 569 in finals](http://ants.aichallenge.org/profile.php?user=645) and v1 of it [ranked 943](http://ants.aichallenge.org/profile.php?user=14102).
 
 My bot uses these strategies.
 
